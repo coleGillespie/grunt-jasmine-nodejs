@@ -46,7 +46,7 @@
     "grunt": "^1.0.1",
     "jasmine-console-reporter": "^1.2.7",
     "jasmine-core": "^2.5.2",
-    "jasmine-reporters": "^2.2.0",
+    "jasmine-reporters": "git@github.com:coleGillespie/jasmine-reporters.git",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
